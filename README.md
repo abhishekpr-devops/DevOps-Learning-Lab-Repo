@@ -13,15 +13,10 @@ I am using this repo to practice:
 - pull requests
 - documentation
 
+## Conflict Practice
+This line was edited differently on main branch.
+
 ## Main project folder
 The actual project files are inside:
 `devops-learning-lab/`
-
-## Progress
-- project structure created
-- Git docs added
-- Linux docs added
-- Docker docs added
-- AWS docs added
-- troubleshooting docs added
 
