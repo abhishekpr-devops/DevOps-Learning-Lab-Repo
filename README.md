@@ -27,3 +27,8 @@ The actual project files are inside:
 ## Conflict Practice
 This line was edited in feature/conflict-practice branch.
 
+
+
+## Conflict Practice
+This line was edited differently on main branch.
+
