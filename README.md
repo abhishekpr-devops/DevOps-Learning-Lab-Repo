@@ -22,3 +22,8 @@ This line was edited in feature/conflict-practice branch.
 The actual project files are inside:
 `devops-learning-lab/`
 
+
+
+## Conflict Practice
+This line was edited in feature/conflict-practice branch.
+
