@@ -14,7 +14,11 @@ I am using this repo to practice:
 - documentation
 
 ## Conflict Practice
+<<<<<<< HEAD
 This line was edited differently on main branch.
+=======
+This line was edited in feature/conflict-practice branch.
+>>>>>>> 8e0a8ad (Edit README in conflict practice branch)
 
 ## Main project folder
 The actual project files are inside:
