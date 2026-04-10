@@ -1,5 +1,11 @@
+# Changelog
+
 ## 2026-04-10
-- Added Git basics notes
-- Added Linux commands notes
-- Resolved merge conflict in README
-- Reverted mistaken commit on main
+- Created initial project structure
+- Added Git documentation notes
+- Added Linux documentation notes
+- Added Docker documentation notes
+- Added AWS documentation notes
+- Added troubleshooting documentation notes
+- Added root README for GitHub homepage
+
