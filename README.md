@@ -1,34 +1,45 @@
-# DevOps Learning Lab Repo
+# DevOps Learning Lab
 
-This repository contains my DevOps learning project.
+A hands-on DevOps learning repository focused on Git, Linux, Docker, GitHub Actions, Kubernetes, AWS, Terraform, and troubleshooting.
 
 ## Purpose
-I am using this repo to practice:
-- Git
-- Linux
-- Docker
-- AWS
-- troubleshooting
-- branch workflow
-- pull requests
-- documentation
 
-## Conflict Practice
+This repository is used to practice real DevOps workflows instead of only reading theory.
 
-This line was edited in feature/conflict-practice branch.
->>>>>>> 8e0a8ad (Edit README in conflict practice branch)
+## Topics Covered
 
-## Main project folder
-The actual project files are inside:
-`devops-learning-lab/`
+- Git and GitHub workflow
+- Branching, merging, pull requests, and conflict resolution
+- Linux command-line practice
+- Docker basics
+- GitHub Actions basics
+- Kubernetes basics
+- AWS basics
+- Terraform basics
+- Troubleshooting notes
+- Mistakes and lessons learned
 
+## Repository Structure
 
+- docs/git
+- docs/linux
+- docs/docker
+- docs/aws
+- docs/troubleshooting
+- CHANGELOG.md
+- MISTAKES.md
+- README.md
 
-## Conflict Practice
-This line was edited in feature/conflict-practice branch.
+## What I Practiced
 
+- Creating branches
+- Making commits
+- Opening pull requests
+- Merging branches
+- Resolving merge conflicts
+- Reverting changes
+- Documenting mistakes
 
+## Current Status
 
-## Conflict Practice
-This line was edited differently on main branch.
-
+This repository is actively used as my DevOps practice lab.
